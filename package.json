@@ -1,0 +1,28 @@
+{ "name": "ssldebug-dummycert-pmb",
+  "version": "1.0.0",
+  "description": "A dummy SSL certificate for debugging, wrapped in JSON and a node module.",
+  "keywords": [ "SSL", "certificate" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/ssldebug-dummycert-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/ssldebug-dummycert-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/ssldebug-dummycert-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "index.js",
+  "scripts": { "test": "nodejs usage.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
